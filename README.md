@@ -23,3 +23,10 @@ Lista enumerada
 2. carne
 3. Samsung 
 4. A 71
+
+Lista no numerada 
+. Computadora 
+. Monitor
+. Mouse
+. Teclado
+. CPU
