@@ -25,6 +25,7 @@ Lista enumerada
 4. A 71
 
 Lista no numerada 
+
 . Computadora 
 . Monitor
 . Mouse
